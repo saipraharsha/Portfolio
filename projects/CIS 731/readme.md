@@ -1,1 +1,1 @@
-# This is my final project for course Artificial Nerual Networks
+# This is my final project for the course Artificial Nerual Networks
